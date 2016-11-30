@@ -69,8 +69,8 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
-  color: white;
+  background: #ffffff;
+  color: black;
 }
 header .container {
   padding-top: 100px;
@@ -502,4 +502,45 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+
+/* Carousel Header Styles */
+.header-text {
+    position: absolute;
+    top: 63%;
+    left: 10.8%;
+    right: auto;
+    width: 80.66666666666666%;
+    color: #fff;
+}
+
+.header-text h2 {
+    font-size: 40px;
+}
+
+.header-text h2 span {
+   padding: 15px;
+}
+
+.header-text h3 span {
+	padding: 15px;
+}
+.history-text{
+	font-size: 25px;
+	
+	text-align: left;
+  background: #ffffff;
+  color: brown;
+  
+}
+}
+
+
+.history-text h3 {
+    font-size: 25px;
+	text-transform: lowercase;
+
+}
+.history-text h2 {
+    font-size: 25px;
 }
