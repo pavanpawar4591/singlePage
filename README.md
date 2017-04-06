@@ -1,1 +1,3 @@
 Single page template
+
+Thanks
